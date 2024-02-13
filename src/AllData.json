@@ -1,0 +1,344 @@
+[
+  {
+    "categoryName": "Apple",
+    "image": "https://i.ibb.co/jDpMFvG/apple-logo.png",
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 13",
+        "price": 699.99,
+        "image": "https://i.ibb.co/5xypHzN/Apple-iphone-13-PNG-728x454.jpg",
+        "alt": "iPhone 13 Image",
+        "features": {
+          "display": "6.1 inches Super Retina XDR",
+          "processor": "A15 Bionic",
+          "camera": "Dual 12MP + 12MP",
+          "storage": "Available in 128GB, 256GB, and 512GB"
+        }
+      },
+      {
+        "id": 2,
+        "name": "iPhone 13 Pro",
+        "price": 799.99,
+        "image": "https://i.ibb.co/HVMMwHN/iiphone-13-pro.jpg",
+        "alt": "iPhone 13 Pro Image",
+        "features": {
+          "display": "6.1 inches ProMotion Super Retina XDR",
+          "processor": "A15 Bionic",
+          "camera": "Triple 12MP + 12MP + 12MP",
+          "storage": "Available in 128GB, 256GB, 512GB, and 1TB"
+        }
+      },
+      {
+        "id": 3,
+        "name": "iPhone 13 mini",
+        "price": 899.99,
+        "image": "https://i.ibb.co/WKrD3Zs/i-phone-13-mini.jpg",
+        "alt": "iPhone 13 Mini Image",
+        "features": {
+          "display": "5.4 inches Super Retina XDR",
+          "processor": "A15 Bionic",
+          "camera": "Dual 12MP + 12MP",
+          "storage": "Available in 128GB, 256GB, and 512GB"
+        }
+      },
+      {
+        "id": 4,
+        "name": "iPhone 12",
+        "price": 999.99,
+        "image": "https://i.ibb.co/xzrZzww/i-phone-12.jpg",
+        "alt": "iPhone 12 Image",
+        "features": {
+          "display": "6.1 inches Super Retina XDR",
+          "processor": "A14 Bionic",
+          "camera": "Dual 12MP + 12MP",
+          "storage": "Available in 64GB, 128GB, and 256GB"
+        }
+      },
+      {
+        "id": 5,
+        "name": "iPhone SE (2nd generation)",
+        "price": 749.99,
+        "image": "https://i.ibb.co/hR4FMgs/i-Phone-SE-2nd-generation.jpg",
+        "alt": "iPhone SE (2nd generation) Image",
+        "features": {
+          "display": "4.7 inches Retina HD",
+          "processor": "A13 Bionic",
+          "camera": "Single 12MP",
+          "storage": "Available in 64GB, 128GB, and 256GB"
+        }
+      }
+    ]
+  },
+  {
+    "categoryName": "Samsung",
+    "image": "https://i.ibb.co/QHzRvQd/samsung-logo-white.png",
+    "products": [
+      {
+        "id": 6,
+        "name": "Samsung Galaxy S21",
+        "price": 299.99,
+        "image": "https://i.ibb.co/zZgGwnf/Samsung-Galaxy-S21.jpg",
+        "alt": "Samsung Galaxy S21 Image",
+        "features": {
+          "display": "6.2 inches Dynamic AMOLED",
+          "processor": "Exynos 2100 / Snapdragon 888",
+          "camera": "Triple 12MP + 12MP + 64MP",
+          "storage": "Available in 128GB and 256GB"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Samsung Galaxy Note 20 Ultra",
+        "price": 249.99,
+        "image": "https://i.ibb.co/sJccdb5/Samsung-Galaxy-Note-20-Ultra.jpg",
+        "alt": "Samsung Galaxy Note 20 Ultra Image",
+        "features": {
+          "display": "6.9 inches Dynamic AMOLED",
+          "processor": "Exynos 990 / Snapdragon 865+",
+          "camera": "Triple 108MP + 12MP + 12MP",
+          "storage": "Available in 256GB and 512GB"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Samsung Galaxy A52",
+        "price": 199.99,
+        "image": "https://i.ibb.co/X3yQqCj/Samsung-Galaxy-A52.jpg",
+        "alt": "Samsung Galaxy A52 Image",
+        "features": {
+          "display": "6.5 inches Super AMOLED",
+          "processor": "Snapdragon 720G",
+          "camera": "Quad 64MP + 12MP + 5MP + 5MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Samsung Galaxy Z Flip 3",
+        "price": 349.99,
+        "image": "https://i.ibb.co/rbXsjSn/Samsung-Galaxy-Z-Flip-3.jpg",
+        "alt": "Samsung Galaxy Z Flip 3 Image",
+        "features": {
+          "display": "6.7 inches Dynamic AMOLED 2X",
+          "processor": "Snapdragon 888",
+          "camera": "Dual 12MP + 12MP",
+          "storage": "Available in 128GB and 256GB"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy M32",
+        "price": 299.99,
+        "image": "https://i.ibb.co/5rCjvcw/Samsung-Galaxy-M32.jpg",
+        "alt": "Samsung Galaxy M32 Image",
+        "features": {
+          "display": "6.4 inches Super AMOLED",
+          "processor": "MediaTek Helio G80",
+          "camera": "Quad 64MP + 8MP + 2MP + 2MP",
+          "storage": "Available in 64GB and 128GB"
+        }
+      }
+    ]
+  },
+  {
+    "categoryName": "Xiaomi",
+    "image": "https://i.ibb.co/W6K6fXg/Xiaomi-2021-New.png",
+    "products": [
+      {
+        "id": 11,
+        "name": "Xiaomi Mi 11",
+        "image": "https://i.ibb.co/Q9vc88T/Xiaomi-Mi-11.jpg",
+        "alt": "Xiaomi Mi 11 Image",
+        "price": 799.99,
+        "features": {
+          "display": "6.81 inches AMOLED",
+          "processor": "Snapdragon 888",
+          "camera": "Triple 108MP + 13MP + 5MP",
+          "storage": "Available in 128GB and 256GB"
+        }
+      },
+      {
+        "id": 12,
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "image": "https://i.ibb.co/gJFQqbZ/xiaomi-redmi-note10-pro.jpg",
+        "alt": "Xiaomi Redmi Note 10 Pro Image",
+        "price": 279.99,
+        "features": {
+          "display": "6.67 inches Super AMOLED",
+          "processor": "Snapdragon 732G",
+          "camera": "Quad 108MP + 8MP + 5MP + 2MP",
+          "storage": "Available in 64GB and 128GB"
+        }
+      },
+      {
+        "id": 13,
+        "name": "Xiaomi Poco X3 Pro",
+        "image": "https://i.ibb.co/DfSYk3T/Xiaomi-Poco-X3-Pro.jpg",
+        "alt": "Xiaomi Poco X3 Pro Image",
+        "price": 249.99,
+        "features": {
+          "display": "6.67 inches IPS LCD",
+          "processor": "Snapdragon 860",
+          "camera": "Quad 48MP + 8MP + 2MP + 2MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 14,
+        "name": "Xiaomi Mi 10T Pro",
+        "image": "https://i.ibb.co/djDMD6Y/Xiaomi-Mi-10-T-Pro.jpg",
+        "alt": "Xiaomi Mi 10T Pro Image",
+        "price": 599.99,
+        "features": {
+          "display": "6.67 inches IPS LCD",
+          "processor": "Snapdragon 865",
+          "camera": "Triple 108MP + 13MP + 5MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 15,
+        "name": "Xiaomi Black Shark 4",
+        "image": "https://i.ibb.co/9V9sJhc/Xiaomi-Black-Shark-4.jpg",
+        "alt": "Xiaomi Black Shark 4 Image",
+        "price": 499.99,
+        "features": {
+          "display": "6.67 inches AMOLED",
+          "processor": "Snapdragon 870",
+          "camera": "Triple 48MP + 8MP + 5MP",
+          "storage": "Available in 128GB and 256GB"
+        }
+      }
+    ]
+  },
+  {
+    "categoryName": "Oppo",
+    "image": "https://i.ibb.co/dMn7Wy2/oppo-logo-BECA4-F3-EAB-seeklogo-com.png",
+    "products": [
+      {
+        "id": 16,
+        "name": "Oppo Find X3 Pro",
+        "image": "https://i.ibb.co/9YpzsT5/Oppo-Find-X3-Pro.jpg",
+        "alt": "Oppo Find X3 Pro Image",
+        "price": 1099.99,
+        "features": {
+          "display": "6.7 inches LTPO AMOLED",
+          "processor": "Snapdragon 888",
+          "camera": "Quad 50MP + 50MP + 13MP + 3MP",
+          "storage": "Available in 256GB"
+        }
+      },
+      {
+        "id": 17,
+        "name": "Oppo Reno6 Pro",
+        "image": "https://i.ibb.co/fHC3Ck2/Oppo-Reno6-Pro.jpg",
+        "alt": "Oppo Reno6 Pro Image",
+        "price": 699.99,
+        "features": {
+          "display": "6.55 inches AMOLED",
+          "processor": "Dimensity 1200",
+          "camera": "Quad 64MP + 8MP + 2MP + 2MP",
+          "storage": "Available in 128GB and 256GB"
+        }
+      },
+      {
+        "id": 18,
+        "name": "Oppo A74",
+        "image": "https://i.ibb.co/x7yb4fw/Oppo-A74.jpg",
+        "alt": "Oppo A74 Image",
+        "price": 299.99,
+        "features": {
+          "display": "6.43 inches AMOLED",
+          "processor": "Snapdragon 662",
+          "camera": "Triple 48MP + 2MP + 2MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 19,
+        "name": "Oppo F19 Pro",
+        "image": "https://i.ibb.co/sR2wjRG/Oppo-F19-Pro.jpg",
+        "alt": "Oppo F19 Pro Image",
+        "price": 349.99,
+        "features": {
+          "display": "6.43 inches Super AMOLED",
+          "processor": "MediaTek Helio P95",
+          "camera": "Quad 48MP + 8MP + 2MP + 2MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 20,
+        "name": "Oppo A15",
+        "image": "https://i.ibb.co/1GyfjYR/Oppo-A15.jpg",
+        "alt": "Oppo A15 Image",
+        "price": 179.99,
+        "features": {
+          "display": "6.52 inches IPS LCD",
+          "processor": "MediaTek Helio P35",
+          "camera": "Triple 13MP + 2MP + 2MP",
+          "storage": "Available in 32GB"
+        }
+      }
+    ]
+  },
+  {
+    "categoryName": "Vivo Phones",
+    "image": "https://i.ibb.co/sbyGBRg/vivo-1-logo-png-transparent.png",
+    "products": [
+      {
+        "id": 21,
+        "name": "Vivo X60 Pro",
+        "image": "https://i.ibb.co/R6T9XGs/Vivo-X60-Pro.jpg",
+        "alt": "Vivo X60 Pro Image",
+        "price": 899.99,
+        "features": {
+          "display": "6.56 inches AMOLED",
+          "processor": "Exynos 1080",
+          "camera": "Quad 48MP + 13MP + 13MP + 8MP",
+          "storage": "Available in 256GB"
+        }
+      },
+      {
+        "id": 22,
+        "name": "Vivo V21",
+        "image": "https://i.ibb.co/wd1NTB1/Vivo-V21.jpg",
+        "alt": "Vivo V21 Image",
+        "price": 449.99,
+        "features": {
+          "display": "6.44 inches AMOLED",
+          "processor": "MediaTek Dimensity 800U",
+          "camera": "Triple 64MP + 8MP + 2MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 24,
+        "name": "Vivo S1 Pro",
+        "image": "https://i.ibb.co/zV6TfnK/Vivo-S1-Pro.png",
+        "alt": "Vivo S1 Pro Image",
+        "price": 349.99,
+        "features": {
+          "display": "6.38 inches Super AMOLED",
+          "processor": "Qualcomm Snapdragon 665",
+          "camera": "Quad 48MP + 8MP + 2MP + 2MP",
+          "storage": "Available in 128GB"
+        }
+      },
+      {
+        "id": 25,
+        "name": "Vivo X50 Pro",
+        "image": "https://i.ibb.co/R6T9XGs/Vivo-X60-Pro.jpg",
+        "alt": "Vivo X50 Pro Image",
+        "price": 799.99,
+        "features": {
+          "display": "6.56 inches AMOLED",
+          "processor": "Qualcomm Snapdragon 765G",
+          "camera": "Quad 48MP + 13MP + 8MP + 8MP",
+          "storage": "Available in 256GB"
+        }
+      }
+    ]
+  }
+]
